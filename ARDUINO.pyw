@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 28 20:36:35 2019
 
-@author: cristiano_001325
+@author: cristiano
 """
 '''Interessa isso aqui para o arduino'''
 import serial                                                            
