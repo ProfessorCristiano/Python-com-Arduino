@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 28 20:35:34 2019
 
-@author: cristiano_001325
+@author: cristiano
 """
 
 from tkinter import *
